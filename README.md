@@ -17,6 +17,7 @@ Although this is a sketch, 95% of the footage was taken using flash, so please b
 For the power supply, you will need to devise a TP4066 charging module board, LIPO battery, power switch, etc. Please use the board pattern to modify and wire it.
 Please refer to the assembly and operation manual for details.
 (continue)
+![LC meter](LCM7_2PCB.jpg "PCB")
 
 ATU-100キットなどを組み立てるとき、空芯コイルとかトロイダルコイルのインダクタンスが知りたくなります。ちゃんと巻けているのかどうかを確かめるのに必要です。
 市販Lメータでは測定下限が数μHぐらいのものが多くて、数十ｎH（0.1μH程度）の低用量コイルのインダクタンスは測れません。
