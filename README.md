@@ -12,10 +12,12 @@ There were errors in the circuit diagram and board pattern originally uploaded. 
 3. The signal layout of the ICSP 6P header is incorrect.
 Please see LCM V7 Mistake prevention list.jpg for countermeasures.
 
-Although this is a sketch, 95% of the footage was taken using flash, so please be careful when editing or revising.
+Although this is a sketch, 95% of the footage was taken using flash, so please be careful when editing or revising. In the case of V7 sketch.
+I released the size shrunk version V8.2 as 80%/60%.
 
 For the power supply, you will need to devise a TP4066 charging module board, LIPO battery, power switch, etc. Please use the board pattern to modify and wire it.
 Please refer to the assembly and operation manual for details.
+Please visit my WEB pages: https://chitose6thplant.fc2.page/lc-meter-v7-dpdt-calibration-3-steps-layers-pcb-model/
 (continue)
 ![LC meter](LCM7_2PCB.jpg "PCB")
 
@@ -31,7 +33,7 @@ ATU-100キットなどを組み立てるとき、空芯コイルとかトロイ�
 3.ICSPの6Pヘッダの信号配置が間違っています。
 対策についてLCM V7 Mistake prevention list.jpgに書きましたので確認願います。
 
-スケッチですが、フラッシュ使用量が95％となっておりますので、修正・編集の際は注意願います。
+スケッチですが、V7ではフラッシュフラッシュ使用量が95％となっておりますので、修正・編集の際は注意願います。その後V8.2ではメモリー圧縮し、80%/60%にしました。こちらは教育用にも使えるよう処理をわかりやすくしました。こちらをお使いください。
 
 電源ですが、TP4066充電モジュール基板、LIPO電池、電源スイッチなどを工夫数必要があります。基板パターンを利用し、改造、配線してください。
 細かい点については組み立て、操作説明書を参照願います。
